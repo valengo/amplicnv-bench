@@ -1,0 +1,6 @@
+*
+!.gitignore
+!cnvkit.losses.bed
+!cnvpytor.losses.bed
+!exomedepth.losses.bed
+!amplicnv.losses.bed

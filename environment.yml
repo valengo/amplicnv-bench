@@ -1,0 +1,18 @@
+name: AMPLICNV-BENCH
+channels:
+  - bioconda
+  - conda-forge
+  - r
+dependencies:
+  - python>=3.9
+  - jupyter=1.0.0
+  - bedtools=2.30.0
+  - htslib=1.13
+  - pybedtools=0.8.2
+  - samtools=1.13
+  - bedops=2.4.39
+  - gatk4=4.0.5.1
+  - seaborn=0.11.1
+  - pip
+  - pip:
+      - bedhandler
